@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: LeWeChatCopy
- * Plugin URI:  https://www.lezaiyun.com/926.html
+ * Plugin URI:  https://www.laojiang.me/6157.html
  * Description: WordPress关注公众号可复制插件，支持全站或指定内容的复制控制。（公众号：老蒋朋友圈）
  * Version: 1.0.0
  * Author: 老蒋和他的小伙伴
- * Author URI: https://www.lezaiyun.com
+ * Author URI: https://www.laojiang.me
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: lewechatcopy
